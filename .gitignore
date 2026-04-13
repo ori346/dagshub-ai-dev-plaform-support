@@ -55,3 +55,4 @@ venv.bak/
 *.db
 *.sqlite
 deploy/helm/workbench/hello_world_llm_old.ipynb
+docs
